@@ -1,0 +1,96 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "g:/2021/@_github/Dilemma_game_ATmega2560/include",
+                "g:/2021/@_github/Dilemma_game_ATmega2560/src",
+                "C:/Users/san/Documents/Arduino/libraries/MsTimer2",
+                "C:/Users/san/.platformio/packages/framework-arduino-avr/cores/arduino",
+                "C:/Users/san/.platformio/packages/framework-arduino-avr/variants/mega",
+                "C:/Users/san/Documents/Arduino/libraries/Adafruit_BusIO",
+                "C:/Users/san/Documents/Arduino/libraries/Adafruit_DotStar",
+                "C:/Users/san/Documents/Arduino/libraries/Adafruit_GFX_Library",
+                "C:/Users/san/Documents/Arduino/libraries/Adafruit_ILI9341",
+                "C:/Users/san/Documents/Arduino/libraries/Adafruit_NeoPixel",
+                "C:/Users/san/Documents/Arduino/libraries/Adafruit_SSD1306",
+                "C:/Users/san/Documents/Arduino/libraries/Adafruit_STMPE610",
+                "C:/Users/san/Documents/Arduino/libraries/Adafruit_TouchScreen",
+                "C:/Users/san/Documents/Arduino/libraries/Esp32WifiManager/src",
+                "C:/Users/san/Documents/Arduino/libraries/NTPClient",
+                "C:/Users/san/Documents/Arduino/libraries/RF24-master",
+                "C:/Users/san/Documents/Arduino/libraries/RF24-master/utility",
+                "C:/Users/san/Documents/Arduino/libraries/RF24G",
+                "C:/Users/san/Documents/Arduino/libraries/SH1106_SPI",
+                "C:/Users/san/Documents/Arduino/libraries/U8g2/src",
+                "C:/Users/san/Documents/Arduino/libraries/WiFi/src",
+                "C:/Users/san/Documents/Arduino/libraries/WiFiEsp/src",
+                "C:/Users/san/Documents/Arduino/libraries/arduinoFFT/src",
+                "C:/Users/san/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                "C:/Users/san/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                "C:/Users/san/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "C:/Users/san/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                "C:/Users/san/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                "C:/Users/san/.platformio/packages/tool-unity",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "g:/2021/@_github/Dilemma_game_ATmega2560/include",
+                    "g:/2021/@_github/Dilemma_game_ATmega2560/src",
+                    "C:/Users/san/Documents/Arduino/libraries/MsTimer2",
+                    "C:/Users/san/.platformio/packages/framework-arduino-avr/cores/arduino",
+                    "C:/Users/san/.platformio/packages/framework-arduino-avr/variants/mega",
+                    "C:/Users/san/Documents/Arduino/libraries/Adafruit_BusIO",
+                    "C:/Users/san/Documents/Arduino/libraries/Adafruit_DotStar",
+                    "C:/Users/san/Documents/Arduino/libraries/Adafruit_GFX_Library",
+                    "C:/Users/san/Documents/Arduino/libraries/Adafruit_ILI9341",
+                    "C:/Users/san/Documents/Arduino/libraries/Adafruit_NeoPixel",
+                    "C:/Users/san/Documents/Arduino/libraries/Adafruit_SSD1306",
+                    "C:/Users/san/Documents/Arduino/libraries/Adafruit_STMPE610",
+                    "C:/Users/san/Documents/Arduino/libraries/Adafruit_TouchScreen",
+                    "C:/Users/san/Documents/Arduino/libraries/Esp32WifiManager/src",
+                    "C:/Users/san/Documents/Arduino/libraries/NTPClient",
+                    "C:/Users/san/Documents/Arduino/libraries/RF24-master",
+                    "C:/Users/san/Documents/Arduino/libraries/RF24-master/utility",
+                    "C:/Users/san/Documents/Arduino/libraries/RF24G",
+                    "C:/Users/san/Documents/Arduino/libraries/SH1106_SPI",
+                    "C:/Users/san/Documents/Arduino/libraries/U8g2/src",
+                    "C:/Users/san/Documents/Arduino/libraries/WiFi/src",
+                    "C:/Users/san/Documents/Arduino/libraries/WiFiEsp/src",
+                    "C:/Users/san/Documents/Arduino/libraries/arduinoFFT/src",
+                    "C:/Users/san/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                    "C:/Users/san/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                    "C:/Users/san/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "C:/Users/san/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    "C:/Users/san/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    "C:/Users/san/.platformio/packages/tool-unity",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=50101",
+                "ARDUINO_AVR_MEGA2560",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATmega2560__",
+                ""
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "C:/Users/san/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+            "compilerArgs": [
+                "-mmcu=atmega2560",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
